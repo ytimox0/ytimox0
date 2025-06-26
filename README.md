@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is aaleaf and I'm a ytimox0, from aaleafff</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFicXRzM2J1aWoxYzJxa2Z5NjY0MDUzbGhtY3N2Z2hmY3U5aXExMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LrC1m7Ay3xsha/giphy.gif)"  />
 
 ###
 
